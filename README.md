@@ -1,6 +1,6 @@
 # SVG trial for Quiz 6
 
-## maxxyb33.github.io/max-svg
+## https://maxxyb33.github.io/max-svg/
 
 #### Original Image:
 ![JPEG](img/max.jpg "Max JPEG (Original)")
